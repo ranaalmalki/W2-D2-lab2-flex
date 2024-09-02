@@ -107,3 +107,24 @@
     .div4-image{
         display: flex;
         justify-content: space-evenly;}
+
+        /* footer*/
+        .footer-last{
+
+            display: flex;
+            flex-direction: row-reverse;
+        }
+
+        .last-line{
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            
+        }
+
+        .last-image{
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+       
