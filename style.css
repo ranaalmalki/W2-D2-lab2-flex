@@ -29,7 +29,7 @@
     width: 100%;
 
 } 
-button{
+.button-list{
     color: #0e0e0e;
   background-color: #fff;
   padding: 15px 40px;
@@ -116,4 +116,11 @@ button{
             justify-content: space-evenly;
         }
 
+        .b-view{
+            color: #fff;
+  background-color: #0e0e0e;
+  border-color: #0e0e0e;
+  padding: 15px 40px;
+  font-weight: 500;
+        }
        
